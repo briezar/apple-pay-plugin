@@ -1,0 +1,19 @@
+<dependencies>
+    <androidPackages>
+        <repositories>
+        </repositories>
+    </androidPackages>
+
+    <iosPods>
+        <!-- CocoaPods sources -->
+        <sources>
+            <source>https://cdn.cocoapods.org/</source>
+        </sources>
+
+        <!-- iOS minimum deployment target -->
+        <platform name="ios" version="13.0" />
+
+        <!-- Pods required for ApplePay -->
+        <!-- <iosPod name="" version="~> 4" /> -->
+    </iosPods>
+</dependencies>

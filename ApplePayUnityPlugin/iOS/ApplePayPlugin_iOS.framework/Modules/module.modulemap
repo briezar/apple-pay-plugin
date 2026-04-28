@@ -1,0 +1,4 @@
+framework module ApplePayPlugin_iOS {
+  header "ApplePayPlugin_iOS-Swift.h"
+  requires objc
+}
